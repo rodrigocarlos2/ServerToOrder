@@ -1,24 +1,8 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Server to Order Numbers
 
-Things you may want to cover:
+This project is to order a string of numbers dividides in ','.
 
-* Ruby version
+The return is the list of numbers sorted.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Author: Rodrigo Carlos.

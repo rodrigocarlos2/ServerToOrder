@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  requisition: one
+  value: 1
+
+two:
+  requisition: two
+  value: 1
